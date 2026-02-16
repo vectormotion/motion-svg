@@ -47,6 +47,15 @@
     "declarative"
   ],
   "license": "MIT",
+  "author": "vectormotion",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vectormotion/motion-svg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vectormotion/motion-svg/issues"
+  },
+  "homepage": "https://github.com/vectormotion/motion-svg#readme",
   "peerDependencies": {
     "react": ">=18.0.0",
     "react-dom": ">=18.0.0"
