@@ -1,0 +1,1 @@
+export { parseSvg } from './parseSvg';
